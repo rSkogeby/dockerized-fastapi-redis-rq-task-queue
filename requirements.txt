@@ -6,6 +6,6 @@ pydantic==1.6.2
 redis==3.3.11
 rq==1.2.0
 starlette==0.12.9
-uvicorn==0.11.2
+uvicorn==0.11.7
 uvloop==0.14.0
 websockets==9.1
